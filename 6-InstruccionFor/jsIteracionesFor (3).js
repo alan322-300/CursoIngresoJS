@@ -1,4 +1,4 @@
-function mostrar()
+function Mostrar()
 {
 
 var repetciones = prompt("ingrese el número de repeticiones");
